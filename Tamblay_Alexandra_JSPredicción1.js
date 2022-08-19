@@ -14,6 +14,6 @@ function myBirthYearFunc(){
         console.log(sum);
     }
     /* el console.log imprime "¡sumando números!"
-    el console.log imprime num1
-    el console.log imprime num1
+    el console.log imprime 10
+    el console.log imprime 20
     el console.log imprime resultado "30"*/
